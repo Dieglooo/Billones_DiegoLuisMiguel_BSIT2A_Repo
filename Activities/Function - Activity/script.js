@@ -6,7 +6,7 @@ function whatShallIWear(temp){
         console.log("Wear a sweater")
     }
     else {
-        console.log("Wear t-shirt")
+        console.log("Wear a t-shirt")
     }
 }
 
