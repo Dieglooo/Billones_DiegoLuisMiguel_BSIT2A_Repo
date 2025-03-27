@@ -45,4 +45,5 @@ var accuracy = (guesses > 0 ?(hits/guesses)*100:0). toFixed(2);
 var stats = "You took " + guesses + " guesses to sink the battleship" + "\n"+accuracy + "%";
 alert(stats)
 
-
+// vae else var VALIDf random random false y] y
+//  b  else if finally
