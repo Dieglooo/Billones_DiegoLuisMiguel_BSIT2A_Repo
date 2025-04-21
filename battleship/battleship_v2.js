@@ -46,4 +46,4 @@ var stats = "You took " + guesses + " guesses to sink the battleship" + "\n"+acc
 alert(stats)
 
 // vae else var VALIDf random random false y] y
-//  b  else if finally
+//  b  else if finall
